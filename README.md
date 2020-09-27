@@ -15,7 +15,10 @@ app1=C:\\Windows\\notepad.exe
 ## Description
 Need make the queries in the file list.txt how below:
 app1=C:\\Windows\\notepad.exe
+
 This line have two parts:
+
 First part contains the symbolic name for the end point of the link. Html need make the following link http://localhost:3170/app1
+
 Second have the path to file, which you want executable
 C:\\Windows\\notepad.exe
