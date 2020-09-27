@@ -1,0 +1,2 @@
+app=C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe
+app1=C:\\Windows\\notepad.exe

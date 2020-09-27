@@ -1,0 +1,12 @@
+{
+  "name": "runapp",
+  "version": "1.0.0",
+  "description": "run application when you of link",
+  "main": "run.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TOF",
+  "license": "GNU GENERAL PUBLIC LICENSE"
+}
