@@ -4,10 +4,12 @@ This script needs if you want running on the local workstation run a '*.exe' fil
 ## Опис UKR
 В файлі list.txt робимо слідуючи записи:
 app1=C:\\Windows\\notepad.exe
+
 Який складається з двух частин:
+
 1-рше містить символичну назву для кінцевої точки посилання. В *HTML* треба зробити слідуюче посилання http://localhost:3170/app1
-2-ге Є повний шлях до файлу який ви хочете запустити.
-C:\\Windows\\notepad.exe
+
+2-ге Є повний шлях до файлу який ви хочете запустити. C:\\Windows\\notepad.exe
 
 
 ## Description
