@@ -11,7 +11,6 @@ C:\\Windows\\notepad.exe
 
 
 ## Description
-В фйлі list.txt робимо слідуючи записи:
 Need make the queries in the file list.txt how below:
 app1=C:\\Windows\\notepad.exe
 This line have two parts:
